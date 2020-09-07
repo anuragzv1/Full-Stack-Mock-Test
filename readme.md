@@ -17,14 +17,14 @@ Frontend : React
 4) Job portal showing jobs in React
 
 ## Screenshots
-![Login/Signup](login.png)
 Login Page
-![Students page](student.png)
+![Login/Signup](login.png)
 Student Page
-![Interviews Pages](interview.png)
+![Students page](student.png)
 Interview Page
-![Jobs Page](jobs.png)
+![Interviews Pages](interview.png)
 Jobs Page
+![Jobs Page](jobs.png)
 
 ## Folder structure
 /Client : react root  
