@@ -18,13 +18,13 @@ Frontend : React
 
 ## Screenshots
 ![Login/Signup](login.png)
-
+Login Page
 ![Students page](student.png)
-
+Student Page
 ![Interviews Pages](interview.png)
-
+Interview Page
 ![Jobs Page](jobs.png)
-
+Jobs Page
 
 ## Folder structure
 /Client : react root  
