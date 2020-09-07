@@ -27,9 +27,9 @@ Frontend : React
 
 
 ## Folder structure
-/Client : react root
-/Client/src : react component
-server.js : entry point of node.js background
-/routes : contains various routing files for /students /interviews /company
-/models : contains various models of mongodb
-/controllers : contains various controllers like student , company , interview , authentication
+/Client : react root  
+/Client/src : react component  
+server.js : entry point of node.js background  
+/routes : contains various routing files for /students /interviews /company  
+/models : contains various models of mongodb  
+/controllers : contains various controllers like student , company , interview , authentication  
