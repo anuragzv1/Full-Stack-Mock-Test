@@ -1,0 +1,15 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('../images/bg.jpg');
+  min-height: 100vh;
+  height: max-content;
+  min-width: 100vw;
+  width: fit-content;
+}
+
+.condition-div{
+  width: auto;
+  height: 100%;
+}

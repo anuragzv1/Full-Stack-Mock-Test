@@ -1,0 +1,17 @@
+.add-student-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+}
+
+.new-std-form{
+    margin-bottom: 30px;
+}
+
+.register{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+

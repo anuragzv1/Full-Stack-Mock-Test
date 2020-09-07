@@ -1,0 +1,33 @@
+.interview-list{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.create-interview-btn{
+
+}
+
+.interview-add-form{
+    display: none;
+    padding:20px;
+    margin-top:15px;
+    background-color: #e3e3e3;
+    margin-bottom: 20px;
+}
+
+#form-close-btn{
+    width:15px;
+    height:15px;
+    position: relative;
+    top:4px;
+    cursor: pointer;
+}
+#companyName{
+    height:18px;
+}
+#inter-form-btn{
+    height: 24px;
+}

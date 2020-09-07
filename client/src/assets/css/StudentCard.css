@@ -1,0 +1,88 @@
+.studentCard{
+    display: flex;
+    flex-direction: column;
+    width: 420px;
+    min-height: 70px;
+    background-color:skyblue;
+    padding:20px;
+    justify-content: center;
+    align-items: center;
+    border-bottom:1px solid white;
+}
+
+.studentCard:hover{
+    background-color:silver;
+    cursor: pointer;
+}
+#studname{
+    width: 140px;
+}
+#studbatch{
+    width: 140px;
+}
+#studcollege{
+    width: 140px;
+}
+.interview-block{
+    display: none;
+    width: 95%;
+    background-color: white;
+    padding:10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.assign-interview-btn{
+    width: 100px;
+}
+
+.interview-date {
+    width: 130px;
+    height: 30px;
+}
+
+.score-dsa{
+    width:32%;
+    height: 20px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.score-wd{
+    width:32%;
+    height: 20px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 5px;
+}
+.score-re{
+    width:32%;
+    height: 20px;
+    background-color: white;
+    display: inline-block;
+    margin-left: 5px;
+
+}
+
+.progress-re{
+    height: 20px;
+    background-color: greenyellow;
+}
+
+.progress-wd{
+    height: 20px;
+    background-color: greenyellow;
+}
+.progress-dsa{
+    height: 20px;
+    background-color: greenyellow;
+}
+
+.progress-text{
+    z-index: 1;
+    position: relative;
+    font-size: 12px;
+    font-weight: bold;
+}
