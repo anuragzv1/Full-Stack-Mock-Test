@@ -2,9 +2,9 @@
   "name": "example-create-react-app-express",
   "version": "1.0.0",
   "scripts": {
-    "client": "cd client && yarn start",
-    "server": "nodemon server.js",
-    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
+    "server": "node server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
     "@kiyasov/noty": "^2.0.0",
